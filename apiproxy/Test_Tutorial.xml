@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="Test_Tutorial">
+    <Basepaths>/hello</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1531905328649</CreatedAt>
+    <CreatedBy>akshaya.baiju@ust-global.com</CreatedBy>
+    <Description>hello world proxy</Description>
+    <DisplayName>Test_Tutorial</DisplayName>
+    <LastModifiedAt>1531905328649</LastModifiedAt>
+    <LastModifiedBy>akshaya.baiju@ust-global.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:be6321d798aa7bf68ef212c7dbefe5816e26890bd47dd4db35e324ecb5085fbc37b5a9ee174891709902a641ff1cbb1e385bad8bb6deae3c6e4ea96322bfe2ef</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
